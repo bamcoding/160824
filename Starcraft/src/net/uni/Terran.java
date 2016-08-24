@@ -10,7 +10,7 @@ import net.uni.unit.mechanic.Mine;
 import net.uni.unit.mechanic.SiegeMode;
 
 public class Terran {
-//??
+//??2차수정
 	public void gameStart() {
 		
 		Barrack barrack = new Barrack();
