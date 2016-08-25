@@ -18,7 +18,7 @@ public class Barrack {
 		}
 		else if ( type == 2 ) {
 			System.out.println("파이어벳을 만들었습니다.");
-			unit = new Firebat();
+			unit =new Firebat();
 		}
 		else if ( type == 3 ) {
 			System.out.println("메딕을 만들었습니다.");
